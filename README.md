@@ -17,33 +17,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Fiazul/count.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Fiazul&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fiazul&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=hrshammo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)](https://github.com/Fiazul/A-tic-tac-toe-game-with-python-tkinter-and-minmax-algorithm)
+[![](https://github-profile-trophy.vercel.app/?username=Fiazul&theme=dracula&no-frame=true&no-bg=false&margin-w=4)](https://github.com/Fiazul/A-tic-tac-toe-game-with-python-tkinter-and-minmax-algorithm)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hrshammo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Fiazul&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
  <div align="center">
      
      
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=hrshammo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Fiazul&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
  
 <div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hrshammo/) 
- 
-https://drive.google.com/drive/folders/1GDqTEacH6j2iJt--qsaag4x7Mxa87tq3?usp=sharing
