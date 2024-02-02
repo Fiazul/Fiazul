@@ -1,6 +1,6 @@
 ## Who am I ?
-I am a final year student at Bangladesh University of Business and Technology (BUBT) currently doing my Bachelor's in Computer Engineering. 
-I am an open-source Contributor and a web development addict.
+I've earned my Bachelor's in Computer Science and Engineering from Bangladesh University of Business and Technology (BUBT).
+My expertise lies in machine learning, AI, and Python, and I actively contribute to open-source projects in these domains.
 
 <!--
 **Fiazul/Fiazul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
